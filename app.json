@@ -26,6 +26,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "comment" : "app completed 2024-03-15"
   }
 }

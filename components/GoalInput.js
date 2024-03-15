@@ -1,3 +1,6 @@
+// app completed 2024-03-15
+
+
 import { Button, Image, Modal, StyleSheet, TextInput, View } from 'react-native';
 import { useState } from 'react';
 

@@ -9,6 +9,7 @@ import GoalInput from './components/GoalInput';
 // this is JSX
 // apparently commenting OUTSIDE the return() statement is JavaScript commenting,
 // while commenting INSIDE the return() has to be JSX commenting
+// app completed 2024-03-15
 
 export default function App() {
 

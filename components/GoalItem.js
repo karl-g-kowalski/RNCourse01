@@ -1,3 +1,6 @@
+// app completed 2024-03-15
+
+
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 
 function GoalItem(props) {
